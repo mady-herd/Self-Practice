@@ -1,0 +1,123 @@
+
+
+body {
+    position: relative;
+    width: 414px;
+    height: 896px;
+}
+.rectangle {
+    height: 121px;
+    width: 414px;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: -1.79%;
+    bottom: 88.28%;
+    background-image: linear-gradient(178.44deg, rgba(213, 233, 240, 0.967506) 10.54%, rgba(243, 248, 242, 0.954796) 76.16%, rgba(243, 248, 242, 0.28) 98.58%);
+}
+img {
+    height: 217px;
+    position: absolute;
+    left: 3.86%;
+    right: 50%;
+    top: 12.83%;
+    bottom: 62.95%;
+    border-radius: 20px;
+}
+.text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+    color: black;  
+    width: 161px;
+    position: absolute;
+    left: 54.35%;
+    right: 6.76%;
+    top: 12.95%;
+    bottom: 80.8%;
+}
+#backarrow {
+    position: absolute;
+    left: 3.89%;
+    right: 91.28%;
+    top: 6.52%;
+    bottom: 91.25%;
+    height: 20px;
+    width: 20px;
+    left: 16.12109375px;
+    top: 58.4296875px;
+    border-radius: 0px;
+}
+#user-profile {
+    position: absolute;
+    left: 86.23%;
+    right: 4.11%;
+    top: 5.36%;
+    bottom: 90.18%;
+    height: 108px;
+    Width: 40px;
+    Height: 40px;
+    Top: 48px;
+    Left: 357px;
+}
+.comment {
+    position: absolute;
+    left: 46.62%;
+    right: 46.62%;
+    top: 40.96%;
+    bottom: 57.48%;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: right;
+    color: #659970;
+}
+.two {
+    position: absolute;
+    left: 46.14%;
+    right: 47.1%;
+    top: 51.79%;
+    bottom: 46.65%;
+}
+.delete {
+    height: 15px;
+    width: 15px;
+    left: 36px;
+    top: 410px;
+    border-radius: 0px;
+    position: absolute;
+    left: 8.7%;
+    right: 87.68%;
+    top: 45.76%;
+    bottom: 52.57%;
+}
+.again {
+    position: absolute;
+    left: 8.7%;
+    right: 87.68%;
+    top: 54.8%;
+    bottom: 43.53%;
+}
+.jason {
+    height: 40px;
+    width: 40px;
+    left: 350px;
+    top: 394px;
+    border-radius: 0px;
+    position: absolute;
+    left: 84.54%;
+    right: 5.8%;
+    top: 43.97%;
+    bottom: 51.56%
+}
+.one {
+    position: absolute;
+    left: 84.54%;
+    right: 5.8%;
+    top: 53.35%;
+    bottom: 42.19%;
+}
